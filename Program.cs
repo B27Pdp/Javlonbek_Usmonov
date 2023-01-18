@@ -13,6 +13,7 @@ m=m-n;
 m.Minus_2();
 Creature.Insects a = new(5);
 Console.WriteLine(a.Legs);
+Console.WriteLine(5);
 
 
 
