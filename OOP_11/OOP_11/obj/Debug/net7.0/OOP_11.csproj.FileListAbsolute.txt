@@ -1,0 +1,15 @@
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\bin\Debug\net7.0\OOP_11.exe
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\bin\Debug\net7.0\OOP_11.deps.json
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\bin\Debug\net7.0\OOP_11.runtimeconfig.json
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\bin\Debug\net7.0\OOP_11.dll
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\bin\Debug\net7.0\OOP_11.pdb
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\OOP_11.csproj.AssemblyReference.cache
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\OOP_11.GeneratedMSBuildEditorConfig.editorconfig
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\OOP_11.AssemblyInfoInputs.cache
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\OOP_11.AssemblyInfo.cs
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\OOP_11.csproj.CoreCompileInputs.cache
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\OOP_11.dll
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\refint\OOP_11.dll
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\OOP_11.pdb
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\OOP_11.genruntimeconfig.cache
+C:\PDP\c#\OOP_work\OOP_11\OOP_11\obj\Debug\net7.0\ref\OOP_11.dll
