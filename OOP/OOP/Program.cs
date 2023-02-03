@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using OOP.LeetCode;
+using OOP.Lesson_Delegate;
 using OOP.Lesson_Generic;
 using OOP.Lesson_IEnuriable;
 using OOP.Lesson_LinkedList;
@@ -16,7 +17,8 @@ namespace OOP
             //Tuple_Main.Mainn();
             //Generic_Main.Mainn();
             //LeetCode_Main.Mainn();
-            IEnumerator_Main.Mainn();
+            //IEnumerator_Main.Mainn();
+            Delegate_Main.Mainn();
         }
     }
 }
