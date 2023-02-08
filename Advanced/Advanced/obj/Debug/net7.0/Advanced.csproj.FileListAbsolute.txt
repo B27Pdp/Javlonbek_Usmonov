@@ -1,0 +1,15 @@
+C:\PDP\c#\OOP_work\Advanced\Advanced\bin\Debug\net7.0\Advanced.exe
+C:\PDP\c#\OOP_work\Advanced\Advanced\bin\Debug\net7.0\Advanced.deps.json
+C:\PDP\c#\OOP_work\Advanced\Advanced\bin\Debug\net7.0\Advanced.runtimeconfig.json
+C:\PDP\c#\OOP_work\Advanced\Advanced\bin\Debug\net7.0\Advanced.dll
+C:\PDP\c#\OOP_work\Advanced\Advanced\bin\Debug\net7.0\Advanced.pdb
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\Advanced.csproj.AssemblyReference.cache
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\Advanced.GeneratedMSBuildEditorConfig.editorconfig
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\Advanced.AssemblyInfoInputs.cache
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\Advanced.AssemblyInfo.cs
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\Advanced.csproj.CoreCompileInputs.cache
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\Advanced.dll
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\refint\Advanced.dll
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\Advanced.pdb
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\Advanced.genruntimeconfig.cache
+C:\PDP\c#\OOP_work\Advanced\Advanced\obj\Debug\net7.0\ref\Advanced.dll
